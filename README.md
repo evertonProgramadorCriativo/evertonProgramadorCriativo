@@ -1,8 +1,14 @@
-Hi!! 👨‍💻🤙 I'm Everton Eduardo I'm 26 years old, 
+# Hi!! 👨‍💻🤙 I'm Everton Eduardo I'm 26 years old
 
- ![1638090907664 (1)](https://user-images.githubusercontent.com/55323538/159618973-37acec8b-9ca7-4345-be83-cb63c7b39211.jpg)
-
-
+##  Shills and knowledge.
+ 
+![html-5 (2)](https://user-images.githubusercontent.com/55323538/160035094-e8cfd5f6-60f6-49ac-942d-adb06f1998f0.png)
+![css](https://user-images.githubusercontent.com/55323538/160035179-7850f509-3d22-4251-bf95-f05aa0842ed8.png)
+![js](https://user-images.githubusercontent.com/55323538/160035249-ba673170-50dc-43a6-9ad5-ed1e72dcbb02.png)
+![typescript](https://user-images.githubusercontent.com/55323538/160035360-828ab576-077a-476f-9d01-45a6c2335626.png)
+![react](https://user-images.githubusercontent.com/55323538/160035518-a10097c0-0d87-48ca-a112-8f68263a7bb3.png)
+![icons8-redux-64](https://user-images.githubusercontent.com/55323538/160035712-68516886-9a5f-42ab-80ab-7c4c6111562b.png)
+![icons8-jest-can-collect-code-coverage-information-from-entire-projects-64](https://user-images.githubusercontent.com/55323538/160035800-01528ee3-8dae-49c9-a468-919c4a6ae1bf.png)
  
  
 I live in Brazil, I currently live in the city of Rio de Janeiro.
