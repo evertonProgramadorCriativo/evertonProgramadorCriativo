@@ -13,7 +13,7 @@
  
 I live in Brazil, I currently live in the city of Rio de Janeiro.
 I am a full stack software developer, currently looking for an opportunity remotely as a software developer.
-🎉 🏠 🌟 I have 2 Months of Experience at Ohmai Creating Ecommerce Using Vtex Technology 💪 🤓 ☕,
+🎉 🏠 I have 2 Months of Experience at Ohmai Creating Ecommerce Using Vtex Technology 💪 🤓 ☕,
 
 ![5df42172-7615-4898-b78b-3b35f727828f](https://user-images.githubusercontent.com/55323538/159613952-3eaffabd-fa9a-4cfd-bdd2-d72832aa5aaf.jpg)
 
