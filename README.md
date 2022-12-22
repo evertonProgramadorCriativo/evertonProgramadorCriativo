@@ -1,5 +1,8 @@
 # Hi!! 👨‍💻🤙 I'm Everton Eduardo I'm 26 years old
 
+## Software Engineer | Frontend Developer | ReactJS, Typescript, Javascript, Redux, NodeJS, Jest
+
+
 ##  Shills and knowledge.
  
 ![html-5 (2)](https://user-images.githubusercontent.com/55323538/160035094-e8cfd5f6-60f6-49ac-942d-adb06f1998f0.png)
