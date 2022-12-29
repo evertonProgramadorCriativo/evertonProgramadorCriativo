@@ -13,10 +13,35 @@
 ![icons8-redux-64](https://user-images.githubusercontent.com/55323538/160035712-68516886-9a5f-42ab-80ab-7c4c6111562b.png)
 ![icons8-jest-can-collect-code-coverage-information-from-entire-projects-64](https://user-images.githubusercontent.com/55323538/160035800-01528ee3-8dae-49c9-a468-919c4a6ae1bf.png)
  
+ Hi!! 👨‍💻🤙 I'm Everton Eduardo I'm 27 years old,
+
  
-I live in Brazil, I currently live in the city of Rio de Janeiro.
-I am a full stack software developer, currently looking for an opportunity remotely as a software developer.
-🎉 🏠 I have 2 Months of Experience at Ohmai Creating Ecommerce Using Vtex Technology 💪 🤓 ☕,
+WHAT DO I DO 
+
+I develop software solutions for the most varied productive sectors. 
+
+I can create APIs and integrate forms into systems or even develop integration between APIs.
+
+ HOW I DO:
+
+ Using modern technology and tools with programming languages ​​and Framework suitable for each problem. 
+
+I persist information in relational or document-oriented databases.
+
+ MY PROFILE: 
+
+My aspirations to build a remarkable professional career, acting directly in the science and technology sectors is the motivator that drives me towards what I do.
+
+
+Workana :
+
+https://www.workana.com/freelancer/b4f40df0e48eb83e8e7711e639e5bee9 
+
+
+ Github : 
+https://github.co/evertonProgramadorCriativo
+
+ 🤓 ☕,
 
 ![5df42172-7615-4898-b78b-3b35f727828f](https://user-images.githubusercontent.com/55323538/159613952-3eaffabd-fa9a-4cfd-bdd2-d72832aa5aaf.jpg)
 
