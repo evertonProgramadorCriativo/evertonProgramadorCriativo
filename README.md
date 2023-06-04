@@ -16,31 +16,19 @@
  Hi!! 👨‍💻🤙 I'm Everton Eduardo I'm 27 years old,
 
  
-WHAT DO I DO 
 
 I develop software solutions for the most varied productive sectors. 
 
 I can create APIs and integrate forms into systems or even develop integration between APIs.
 
- HOW I DO:
+ 
 
  Using modern technology and tools with programming languages ​​and Framework suitable for each problem. 
 
 I persist information in relational or document-oriented databases.
 
- MY PROFILE: 
 
 My aspirations to build a remarkable professional career, acting directly in the science and technology sectors is the motivator that drives me towards what I do.
-
-
-Workana :
-
-https://www.workana.com/freelancer/b4f40df0e48eb83e8e7711e639e5bee9 
-
-
-LinkeDin :
-https://www.linkedin.com/in/evertoneduardodesenvolvedor
-
 
  🤓 ☕,
 
