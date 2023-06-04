@@ -16,21 +16,33 @@
  Hi!! 👨‍💻🤙 I'm Everton Eduardo I'm 27 years old,
 
  
+❤️‍🔥
+
 
 I develop software solutions for the most varied productive sectors. 
 
 I can create APIs and integrate forms into systems or even develop integration between APIs.
 
  
+🧱 ✅ ✅
+
 
  Using modern technology and tools with programming languages ​​and Framework suitable for each problem. 
 
 I persist information in relational or document-oriented databases.
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonProgramadorCriativo&show_icons=true&theme=radical)
+
+
+🖥️ ✅ ✅
+
+
 My aspirations to build a remarkable professional career, acting directly in the science and technology sectors is the motivator that drives me towards what I do.
 
  🤓 ☕,
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonProgramadorCriativo&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ![5df42172-7615-4898-b78b-3b35f727828f](https://user-images.githubusercontent.com/55323538/159613952-3eaffabd-fa9a-4cfd-bdd2-d72832aa5aaf.jpg)
 
