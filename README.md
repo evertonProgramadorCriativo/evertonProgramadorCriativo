@@ -9,8 +9,7 @@
 
 ## Sou estudante de Ciência da Computação, buscando uma oportunidade de estágio para aplicar e expandir meus conhecimentos, contribuindo ativamente em projetos reais e desenvolvendo uma carreira profissional sólida na área de tecnologia e inovação — setores que me motivam e impulsionam a evoluir constantemente.
 
-##  Shills and knowledge.
- 
+
 ![html-5 (2)](https://user-images.githubusercontent.com/55323538/160035094-e8cfd5f6-60f6-49ac-942d-adb06f1998f0.png)
 ![css](https://user-images.githubusercontent.com/55323538/160035179-7850f509-3d22-4251-bf95-f05aa0842ed8.png)
 ![js](https://user-images.githubusercontent.com/55323538/160035249-ba673170-50dc-43a6-9ad5-ed1e72dcbb02.png)
