@@ -19,7 +19,8 @@
 ![icons8-redux-64](https://user-images.githubusercontent.com/55323538/160035712-68516886-9a5f-42ab-80ab-7c4c6111562b.png)
 ![icons8-jest-can-collect-code-coverage-information-from-entire-projects-64](https://user-images.githubusercontent.com/55323538/160035800-01528ee3-8dae-49c9-a468-919c4a6ae1bf.png)
  
- Competências Técnicas:
+## Competências Técnicas:
+ 
 ✅ Desenvolvimento com React.js e JavaScript ES6+
 
 ✅ Criação de interfaces responsivas e componentes reutilizáveis
