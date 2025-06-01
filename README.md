@@ -1,5 +1,5 @@
  
-# Sobre Mim - Desenvolvedor Front-End | Estudante de Ciência da Computação | Buscando Estágio
+#  Desenvolvedor Front-End | Estudante de Ciência da Computação | Buscando Estágio
 
 ## Sou Desenvolvedor Front-End Pleno com 2 anos de experiência no desenvolvimento de interfaces web modernas, responsivas e acessíveis, utilizando principalmente React.js e JavaScript ES6+. Tenho sólidos conhecimentos na criação de componentes reutilizáveis, integração com APIs RESTful e aplicação das melhores práticas de desenvolvimento, incluindo versionamento de código com Git e testes automatizados.
 
@@ -21,12 +21,19 @@
  
  Competências Técnicas:
 ✅ Desenvolvimento com React.js e JavaScript ES6+
+
 ✅ Criação de interfaces responsivas e componentes reutilizáveis
+
 ✅ Integração de APIs RESTful
+
 ✅ Versionamento de código com Git
+
 ✅ Testes automatizados
+
 ✅ Desenvolvimento e integração de APIs
+
 ✅ Manipulação de bancos de dados relacionais e NoSQL
+
 ✅ Metodologias Ágeis (Scrum, Kanban)
 
 
