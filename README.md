@@ -1,7 +1,13 @@
-# Hi!! 👨‍💻🤙 I'm Everton Eduardo I'm 27 years old
+ 
+# Sobre Mim - Desenvolvedor Front-End | Estudante de Ciência da Computação | Buscando Estágio
 
-## Software Engineer | Frontend Developer | ReactJS, Typescript, Javascript, Redux, NodeJS, Jest
+## Sou Desenvolvedor Front-End Pleno com 2 anos de experiência no desenvolvimento de interfaces web modernas, responsivas e acessíveis, utilizando principalmente React.js e JavaScript ES6+. Tenho sólidos conhecimentos na criação de componentes reutilizáveis, integração com APIs RESTful e aplicação das melhores práticas de desenvolvimento, incluindo versionamento de código com Git e testes automatizados.
 
+## Além da minha experiência em Front-End, também desenvolvo soluções de software para diversos setores produtivos, com foco na criação e integração de APIs, desenvolvimento de sistemas web e integração entre diferentes serviços. Utilizo tecnologias modernas, ferramentas atualizadas e frameworks adequados para resolver os mais variados desafios.
+
+## Tenho familiaridade com bancos de dados relacionais e NoSQL, armazenando informações de forma eficiente conforme a necessidade de cada projeto.
+
+## Sou estudante de Ciência da Computação, buscando uma oportunidade de estágio para aplicar e expandir meus conhecimentos, contribuindo ativamente em projetos reais e desenvolvendo uma carreira profissional sólida na área de tecnologia e inovação — setores que me motivam e impulsionam a evoluir constantemente.
 
 ##  Shills and knowledge.
  
@@ -13,23 +19,8 @@
 ![icons8-redux-64](https://user-images.githubusercontent.com/55323538/160035712-68516886-9a5f-42ab-80ab-7c4c6111562b.png)
 ![icons8-jest-can-collect-code-coverage-information-from-entire-projects-64](https://user-images.githubusercontent.com/55323538/160035800-01528ee3-8dae-49c9-a468-919c4a6ae1bf.png)
  
- Hi!! 👨‍💻🤙 I'm Everton Eduardo I'm 27 years old,
-
  
-❤️‍🔥
 
-
-I develop software solutions for the most varied productive sectors. 
-
-I can create APIs and integrate forms into systems or even develop integration between APIs.
-
- 
-🧱 ✅ ✅
-
-
- Using modern technology and tools with programming languages ​​and Framework suitable for each problem. 
-
-I persist information in relational or document-oriented databases.
 
 
 <picture>
@@ -45,12 +36,9 @@ I persist information in relational or document-oriented databases.
 </picture>
 
 
-🖥️ ✅ ✅
 
 
-My aspirations to build a remarkable professional career, acting directly in the science and technology sectors is the motivator that drives me towards what I do.
-
- 🤓 ☕,
+  
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonProgramadorCriativo&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
