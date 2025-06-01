@@ -3,11 +3,14 @@
 
 ## Sou Desenvolvedor Front-End Pleno com 2 anos de experiência no desenvolvimento de interfaces web modernas, responsivas e acessíveis, utilizando principalmente React.js e JavaScript ES6+. Tenho sólidos conhecimentos na criação de componentes reutilizáveis, integração com APIs RESTful e aplicação das melhores práticas de desenvolvimento, incluindo versionamento de código com Git e testes automatizados.
 
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,dotnet,eclipse,dotnet,figma,firebase,gatsby,git,github,kubernetes,laravel,mongodb,mysql,netlify,nextjs,nginx,npm,php,postgres,postman,py,redux,ts,ubuntu,vscode)](https://skillicons.dev)
+
 ### Além da minha experiência em Front-End, também desenvolvo soluções de software para diversos setores produtivos, com foco na criação e integração de APIs, desenvolvimento de sistemas web e integração entre diferentes serviços. Utilizo tecnologias modernas, ferramentas atualizadas e frameworks adequados para resolver os mais variados desafios.
 
 ### Tenho familiaridade com bancos de dados relacionais e NoSQL, armazenando informações de forma eficiente conforme a necessidade de cada projeto.
 
 ### Sou estudante de Ciência da Computação, buscando uma oportunidade de estágio para aplicar e expandir meus conhecimentos, contribuindo ativamente em projetos reais e desenvolvendo uma carreira profissional sólida na área de tecnologia e inovação — setores que me motivam e impulsionam a evoluir constantemente.
+
 
 
 ![html-5 (2)](https://user-images.githubusercontent.com/55323538/160035094-e8cfd5f6-60f6-49ac-942d-adb06f1998f0.png)
