@@ -19,4 +19,3 @@ Busco uma oportunidade de estágio para **aprimorar minhas habilidades técnicas
 
 ---
 
-Quer que eu monte também uma **versão bem curta** (para LinkedIn e portfólios), tipo um resumo de 3–4 linhas só com **Node.js, React e Next.js** em destaque?
