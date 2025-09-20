@@ -1,4 +1,3 @@
----
 
 **Estudante de Ciência da Computação | Node.js, React e Next.js | Buscando Estágio**
 
