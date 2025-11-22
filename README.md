@@ -8,6 +8,11 @@ Atuação no desenvolvimento de **interfaces web responsivas**, criação de **A
 
 Comprometido com evolução constante, boas práticas, organização de código, documentação e colaboração em equipe.
 
+Desenvolvedor com experiência sólida em backend, bancos de dados, integração entre plataformas e criação de rotinas automatizadas. Atuando em projetos reais de produção, desenvolvi soluções voltadas para eficiência operacional, análise de dados e integração de sistemas, com foco em estabilidade, escalabilidade e qualidade técnica.
+
+Tenho experiência na criação de relatórios gerenciais, otimização de consultas SQL, desenvolvimento de APIs e implementação de processos que suportam o funcionamento de aplicações corporativas. Também possuo histórico consistente de diagnóstico e resolução de problemas complexos, garantindo disponibilidade e desempenho dos sistemas em produção.
+
+Minhas entregas são orientadas a resultados, organização, entendimento do negócio e melhoria contínua das soluções tecnológicas.
 **Competências Técnicas:**  
 ✅ Desenvolvimento Front-End com **React.js** e **Next.js**  
 ✅ Criação de interfaces modernas e responsivas  
